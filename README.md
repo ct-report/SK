@@ -1,7 +1,7 @@
 # SK
 Contact Tracing - Slovakia
 
-**Covid19 ZostanZdravy** developed by Slovak volunteers/experts in partnership with Sygic for the Slovak National Health Information Centre (state-funded organization founded by the Ministry of Health of the Slovak Republic).
+**Covid19 ZostanZdravy** developed by Slovak volunteers/experts (in partnership also with Sygic) for the Slovak National Health Information Centre (state-funded organization founded by the Ministry of Health of the Slovak Republic).
 
 Centralized solution that relies on Bluetooth/BLE (proximity tracing) + GPS location. When there is an interaction with another peer > 15 minutes, the app submits GPS location + peer ID to the server.
 
