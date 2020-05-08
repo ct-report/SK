@@ -14,15 +14,16 @@ Website | https://www.old.korona.gov.sk/en/COVID19-ZostanZdravy.php
 
 Build | Link
 ------|-----
+1.1.0-sk #5 | https://apklab.io/apk.html?hash=75666d83c25be57c05d30a317b29a1bccc09b8c813aeb11b3117458977425d17
 1.0.2-sk #3 | https://apklab.io/apk.html?hash=1ff543b3957624e690f3cbf88979640dbd1d1ba03ec36412f081f8dcddf7881c
 
 - JoeSandbox Report
 
 Build | Link
 ------|-----
+1.1.0-sk #5 | https://www.joesandbox.com/analysis/228706/0/html
 1.0.2-sk #3 | https://www.joesandbox.com/analysis/225535/0/html
 
-_**Notice :** There is a new build 1.1.0-sk - released on April 26. It includes bugfixes for BT detection & offline app management. Former builds are indeed quite buggy/crashy. However, latest build 1.1.0-sk hasn't been fully checked, because of issues with the sample retrieved from the Google Play Store._ 
 
 \
 Moreover, most of the code of Covid19 ZostanZdravy has been taken from that of **ZostanZdravy**, another application already published on the Play Store since March.
@@ -38,10 +39,12 @@ Website | https://www.zostanzdravy.sk/
 
 Build | Link
 ------|-----
+1.0.6 #8 | https://apklab.io/apk.html?hash=7363c833e21ec72cd3e5431febe2a57d9f0148c5263b128dcd972f3d3b28aa2a
 1.0.4 #6 | https://apklab.io/apk.html?hash=73c84ac26c26d7dc61aa9845838eba23a06f609925fe3e9aa60316c87e8f8c83
 
 - JoeSandbox Report
 
 Build | Link
 ------|-----
+1.0.6 #8 | https://www.joesandbox.com/analysis/228703/0/html
 1.0.4 #6 | https://www.joesandbox.com/analysis/225717/0/html 
