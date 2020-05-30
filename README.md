@@ -7,7 +7,7 @@ Centralized solution that relies on Bluetooth/BLE (proximity tracing) + GPS loca
 
 Play Store | https://play.google.com/store/apps/details?id=sk.nczi.covid19
 -----------|--------------------------------------------------------------
-Sources | Unreleased
+Generic Sources | https://github.com/CovidWorld
 Website | https://www.old.korona.gov.sk/en/COVID19-ZostanZdravy.php
 
 - APKLAB Analysis
