@@ -1,6 +1,8 @@
 # SK
 Contact Tracing - Slovakia
 
+![](apkicon_SK.png)
+
 **Covid19 ZostanZdravy** developed by Slovak volunteers/experts (in partnership also with Sygic) for the Slovak National Health Information Centre (state-funded organization founded by the Ministry of Health of the Slovak Republic).
 
 Centralized solution that relies on Bluetooth/BLE (proximity tracing) + GPS location. When there is an interaction with another peer > 15 minutes, the app submits GPS location + peer ID to the server.
@@ -30,6 +32,8 @@ Build | Link
 
 \
 Moreover, most of the code of Covid19 ZostanZdravy has been taken from that of **ZostanZdravy**, another application already published on the Play Store since March.
+
+![](apkicon_SK2.png)
 
 ZostanZdravy already includes proximity tracing & device location, and - above all - it doesn't have same bugs of sister-app. However, it isn't compatibile with EPDB guidelines for contact-tracing apps. Even though with an approx. range, it shows anyway those areas with the users, that have been confirmed as infected by the National Health Auhorities (and have to stay in quarantine).
 
