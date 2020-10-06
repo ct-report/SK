@@ -5,10 +5,13 @@ Contact Tracing - Slovakia
 
 Centralized solution that relies on Bluetooth/BLE (proximity tracing) + GPS location. When there is an interaction with another peer > 15 minutes, the app submits GPS location + peer ID to the server.
 
+**Such app isn't available anymore = it has been disabled & removed from app stores by the Slovak National Health Information Centre (because of privacy & security issues).**
+
 Play Store | https://play.google.com/store/apps/details?id=sk.nczi.covid19
 -----------|--------------------------------------------------------------
 Generic Sources | https://github.com/CovidWorld
 Website | https://www.old.korona.gov.sk/en/COVID19-ZostanZdravy.php
+Website | https://www.zostanzdravy.sk/
 
 - APKLAB Analysis
 
